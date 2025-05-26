@@ -39,9 +39,6 @@
   <a href="https://instagram.com/shantanujaipurkar19" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/u/codekrr_bhai/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
