@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <em>
-    A data-driven IT professional with 3+ years of experience in data analysis, visualization, and middleware development.<br>
+    A data-driven IT professional with 2.5+ years of experience in data analysis, visualization, and middleware development.<br>
     Proficient in <b>Python</b>, <b>SQL</b>, <b>Power BI</b>, and <b>TIBCO software</b> | Certified in <b>Microsoft Power BI</b> and <b>Azure</b>.<br>
     Passionate about transforming data into actionable insights and collaborating with cross-functional teams to drive smarter decisions.
   </em>
