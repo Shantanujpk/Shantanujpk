@@ -23,7 +23,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Data Analysis for Beginners Using Python, Excel, SQL, and Power BI](https://github.com/Shantanujpk?tab=repositories)
+- 🔭 I’m currently working on [Python, SQL, and Power BI, Bigdata ](https://github.com/Shantanujpk?tab=repositories)
 
 - 🌱 I’m currently learning **Data pipeline orchestration with Airflow/Prefect, big data tools like PySpark and Spark, and cloud platforms (AWS, Azure, GCP) to build scalable data engineering solutions.**
 
